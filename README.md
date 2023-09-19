@@ -1,6 +1,6 @@
 # UnityCenas
 Unity Cenas sobre as musicas: Glimpse of Us e Só por uma noite<br>
-Feito por:Nickolas Garcia e Vincenzo Monaco
+Feito por:Nickolas Garcia 
 <br>
 <h1> Link do jogo no google Drive<br>
   

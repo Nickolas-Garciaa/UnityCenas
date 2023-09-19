@@ -50,3 +50,9 @@ O jogo possui duas cenas <br> Tendo a primeira cena como objetivo de chegar em s
 
 ![Captura de tela 2023-09-18 233726](https://github.com/Nickolas-Garciaa/UnityCenas/assets/128262640/178ee04b-38e4-4d30-830d-d73b9d3fded2)
 
+<h1>Jogo rodando</h1>
+
+
+https://github.com/Nickolas-Garciaa/UnityCenas/assets/128262640/236950c5-28f7-4a2e-b2f2-41949c113559
+
+

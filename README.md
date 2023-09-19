@@ -4,6 +4,8 @@ Feito por:Nickolas Garcia e Vincenzo Monaco
 <br>
 <h1> Link do jogo no google Drive<br>
   
+  https://drive.google.com/file/d/1ajEx_I1G62iU4wAAFlgrs20xq6uBMoPr/view?usp=sharing
+  
 <h1>Sobre oque se trata o jogo</h1><br>
 O jogo possui duas cenas <br> Tendo a primeira cena como objetivo de chegar em sua ex amada <br> E a segunda cena contando a superação desse trauma passando por plataformas que remetem a isso mostrando sua verdadeira paixão o skate.
 <br>

@@ -35,3 +35,7 @@ O jogo possui duas cenas <br> Tendo a primeira cena como objetivo de chegar em s
   
 ![Captura de tela 2023-09-18 231731](https://github.com/Nickolas-Garciaa/UnityCenas/assets/128262640/0aa26ead-4f3d-4fa5-baf0-4e20cdaee672)
 
+<h2>Detalhes Amor</h2>
+
+![Captura de tela 2023-09-18 232530](https://github.com/Nickolas-Garciaa/UnityCenas/assets/128262640/c4e69fc1-a27b-4bd7-8f4a-98fdf28bcc94)
+

@@ -7,6 +7,12 @@ Feito por:Nickolas Garcia e Vincenzo Monaco
 <h1>Sobre oque se trata o jogo</h1><br>
 O jogo possui duas cenas <br> Tendo a primeira cena como objetivo de chegar em sua ex amada <br> E a segunda cena contando a superação desse trauma passando por plataformas que remetem a isso mostrando sua verdadeira paixão o skate.
 <br>
+
+<h1>Como mover o personagem
+  
+![wasd](https://github.com/Nickolas-Garciaa/UnityCenas/assets/128262640/2e9a0eb5-8510-425a-bf11-190c207ded9d) <br>ultiizando o WASD padrão em games
+
+  
 <h1>Assets Utilizados</h1>
 
 <h2>Personagem Principal</h2><br>
